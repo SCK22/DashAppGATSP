@@ -4,3 +4,5 @@
 Programming Language : Python
 
 Please refer to https://github.com/SCK22/GeneticAlgorithmTSP for the Genetic Algorithm code.
+
+_Note : Actively developing the code. _
